@@ -3,10 +3,11 @@
 
 
 
-
+- 📌 De São Paulo, São Paulo, Brasil.
 - 🔭 Atualmente realizando projetos pessoais
 - 🌱 Atualmente me aprofundando em HTML5,CSS3,JavaScript e Python
 - 😄 Pronouns: ele/dele
+-🎓 Sou formado em Ciência da computação
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelo-nunes-b10157195/">
