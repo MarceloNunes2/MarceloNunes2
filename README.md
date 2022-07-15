@@ -11,7 +11,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelo-nunes-b10157195/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelonunes2&layout=compact"/>
+  <img height="47%" src="https://github-readme-stats.vercel.app/api?username=marcelonunes2&show_icons=true&theme=radical"/>
+  <img height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelonunes2&layout=compact"/>
   
 
 ##
